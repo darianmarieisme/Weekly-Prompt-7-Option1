@@ -4,3 +4,12 @@ Conditional statements look to resolve the result of Boolean expressions.
 Search the internet and explain what is meant to “short circuit” an ‘and’ chain. 
 An ‘or’ chain.
 02/25/2026
+
+Short-circuiting operators refer to 'and' and 'or' chains because these
+types of operators indicate situations where the right side of the expression
+may not always be used because it is not needed to be evaluated to make the 
+expression 'true'. For example, if you have an expression to check if two things are
+true in an 'and' expression, if the first half of the expression comes back as false,
+the expression does not need to be evaluated any further. In 'or' expressions, if checking if
+either half of the expression is true, if the first half comes back as true, the second
+half of the expression does not need to be evaluated. 
