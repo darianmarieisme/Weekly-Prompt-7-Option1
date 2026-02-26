@@ -1,0 +1,6 @@
+Weekly Prompt 7 Option 1
+Darian Marie Bruce
+Conditional statements look to resolve the result of Boolean expressions. 
+Search the internet and explain what is meant to “short circuit” an ‘and’ chain. 
+An ‘or’ chain.
+02/25/2026
